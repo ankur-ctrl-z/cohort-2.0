@@ -6,9 +6,10 @@ This repository is a comprehensive collection of my learning journey through the
 It covers the complete **0–1** and **1–100** syllabus — including **JavaScript**, **backend**, **frontend**, **DevOps**, and **system design**.
 
 You'll find:
-- ✅ Well-structured code implementations  
-- 📝 Notes for reference  
-- 🔨 Hands-on projects to solidify learning  
+
+✅ Well-structured code implementations  
+📝 Notes for reference  
+🔨 Hands-on projects to solidify learning  
 
 ---
 
@@ -16,6 +17,7 @@ You'll find:
 
 ### 🧱 Foundation
 
+```
 - Foundation JavaScript & async nature of JS  
 - Node.js and its runtime  
 - Databases (NoSQL & SQL)  
@@ -34,11 +36,13 @@ You'll find:
 - Authentication using External Libraries  
 - Scaling Node.js & performance benchmarking  
 - Publishing and deploying npm packages  
+```
 
 ---
 
 ### 🎨 Frontend
 
+```
 - Reconcilers and Frontend Frameworks  
 - React (Beginner to Advanced)  
 - Internals of State & Context API  
@@ -49,22 +53,27 @@ You'll find:
 - Next.js framework  
 - Custom Hooks  
 - Authentication with NextAuth  
+```
 
 ---
 
 ### ⚙️ Basic DevOps
 
+```
 - Docker (End to End)  
 - Deploying to AWS servers  
 - Newer Clouds (Fly.io, Remix)  
 - Nginx and Reverse Proxies  
+```
 
 ---
 
 ### 💼 Projects (0–1 Phase)
 
+```
 - GSoC project setup & issue solving  
 - Paytm/Wallet application – full end-to-end  
+```
 
 ---
 
@@ -72,6 +81,7 @@ You'll find:
 
 ### 🧠 Advanced Backend & System Design
 
+```
 - Advanced backend communication  
 - Message Queues and Pub/Sub systems  
 - Proxies & Load Balancers  
@@ -90,11 +100,13 @@ You'll find:
 - CAP Theorem  
 - Testing Node.js apps (2023 practices)  
 - Real-time communication (Basics of WebRTC)  
+```
 
 ---
 
 ### 🔧 Advanced DevOps
 
+```
 - Container orchestration (Docker Swarm)  
 - Kubernetes  
 - CI/CD pipelines  
@@ -103,6 +115,7 @@ You'll find:
 - Using NewRelic (paid service)  
 - Serverless deep dive  
 - AWS constructs (EC2, S3, CDNs, LB, EKS, etc.)  
+```
 
 ---
 
@@ -112,14 +125,16 @@ You'll find:
 - Zapier automation clone  
 - Real-world open-source projects  
 
+
 ---
 
 ## 🛠️ How to Use
 
-1. **📂 Browse** through the folders to find relevant topics.  
-2. **💻 Explore** code files and documentation to understand concepts.  
-3. **🚀 Implement** the hands-on projects for deeper learning.  
-4. **📢 Engage** in discussions and contribute via pull requests.
+1. 📂 Browse through the folders to find relevant topics.  
+2. 💻 Explore code files and documentation to understand concepts.  
+3. 🚀 Implement the hands-on projects for deeper learning.  
+4. 📢 Engage in discussions and contribute via pull requests.  
+
 
 ---
 
@@ -127,7 +142,7 @@ You'll find:
 
 Clone this repository to your local machine and begin learning with **Cohort 2.0**:
 
-```bash
+```
 git clone https://github.com/ankur1435/cohort-2.0
 ```
 
@@ -135,12 +150,11 @@ git clone https://github.com/ankur1435/cohort-2.0
 
 ## 🤝 Contributions
 
-Contributions are welcome!  
-Feel free to:
-- Raise **issues**
-- Fix **bugs**
-- Add **examples or notes**
+- Raise issues for bugs or enhancements  
+- Fix bugs or broken code  
+- Add examples or explanations  
+- Submit a pull request and get involved!  
 
-Submit a **pull request**, and let’s grow together!
 
----
+----
+
