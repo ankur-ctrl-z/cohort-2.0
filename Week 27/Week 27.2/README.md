@@ -2,7 +2,7 @@
 
 ## Summarizing Previous Session
 
-- We revised the deployment strategy using Docker and to cloud.
+- We revised the deployment strategy using Docker and to cloud. 
 - In previous session, we went through the introduction to Kubernetes and its architecture.
 - Using Kind, we created a cluster with 3 worker nodes.
 - Today, we will learn the concepts of services and use them to deploy our cluster on cloud.
