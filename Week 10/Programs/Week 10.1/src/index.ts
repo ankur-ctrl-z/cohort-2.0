@@ -1,6 +1,6 @@
 import { Client } from "pg";
 import dotenv from 'dotenv';
-
+ 
 dotenv.config();
 
 // STEP 1: CONNECT TO DATABASE
