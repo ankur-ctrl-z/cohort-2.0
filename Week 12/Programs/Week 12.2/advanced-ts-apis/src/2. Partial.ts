@@ -2,7 +2,7 @@ interface User {
   id: string;
   name: string;
   age: number;
-  email: string;
+  email: string; 
   password: string;
 }
 
