@@ -8,7 +8,7 @@ for this, we generate a prisma client using command: npx prisma generate
 import { PrismaClient } from '@prisma/client';
  
 // STEP 0: CREATE A NEW INSTANCE OF THE PRISMA CLIENT
-const prisma = new PrismaClient();
+const prisma = new PrismaClient(); 
 
 
 
